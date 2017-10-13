@@ -13,4 +13,4 @@ after_success:
 notifications:
   email:
       recipients:
-         a.muldoon3@nuigalway.ie
+        - a.muldoon3@nuigalway.ie
